@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This is my online notebook for COMP/STAT212 course taken at [Macalester College](https://www.macalester.edu/). 
