@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Han Sun"
@@ -9,12 +10,7 @@ website:
         text: Home
       - text: "About"
         href: about.qmd
-      - text: "Activity"
-        menu:
-          - text: "Activity 1"
-            href: activity/activity1/file_org_activity/code/clean/cleaning.qmd
-          - text: "Activity 2"
-            href: activity/03-adv-ggplot-notes.qmd
+
 
 format:
   html:
