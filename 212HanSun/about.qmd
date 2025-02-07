@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This is my online notebook for COMP/STAT212 course taken at [Macalester College](https://www.macalester.edu/). 
